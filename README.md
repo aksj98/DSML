@@ -1,2 +1,2 @@
 # Machine learning course
-A project which will help people study Machine learning.
+Creating an offline GUI to help people study the concepts of machine learning !!
